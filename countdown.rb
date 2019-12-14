@@ -2,8 +2,8 @@
 
 def countdown(integer)
  #countdown to 0 
- #puts "#{integer} "
-  while
-  
+ #puts "#{integer} SECOND(S)! "
+  while integer > 0
+    puts   
 end
 end
